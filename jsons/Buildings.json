@@ -8,7 +8,8 @@
         "maintenance": 3,
         "uniqueTo": "Inca",
         "uniques": ["[+4 Food, +2 Production] from [Hill] tiles [in this city]", "[+2 Food] from [Plains] tiles [in this city]",
-        "[30]% Food is carried over after population increases [in this city]"],
+        "[30]% Food is carried over after population increases [in this city]",
+        "[-50]% Unhappiness from [Population] [in this city]"],
         "requiredTech": "Agriculture"
     }
 ]
