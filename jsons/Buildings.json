@@ -11,5 +11,15 @@
         "[30]% Food is carried over after population increases [in this city]",
         "[-50]% Unhappiness from [Population] [in this city]"],
         "requiredTech": "Agriculture"
-    }
+    },
+    {
+        "name": "Arboretium",
+        "cost": 150,
+        "science": 3,
+        "happiness": 2,
+        "maintenance": 1,
+        "specialistSlots": {"Scientist": 1},
+        "uniques": "[+5 Science] from [Mine] tiles [in this city]",
+        "requiredTech": "Agriculture"
+     }
 ]
