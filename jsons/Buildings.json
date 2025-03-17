@@ -27,7 +27,7 @@
         "production": 2,
         "maintenance": 1,
         "uniques": ["[+5]% Production when constructing [All] buildings [in this city]"],
-        "requiredTech": "Masonry"
+        "requiredTech": "Agriculture"
     },
     {
         "name": "Brine Processing Plant",
