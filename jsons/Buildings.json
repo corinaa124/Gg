@@ -14,7 +14,7 @@
     },
     {
         "name": "Arboretium",
-        "cost": 150,
+        "cost": 10,
         "science": 3,
         "happiness": 2,
         "maintenance": 1,
