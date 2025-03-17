@@ -18,8 +18,8 @@
         "gold": 2,
         "maintenance": 3,
         "specialistSlots": {"Merchant": 1},
-        "requiredBuilding": "Granary",
-        "requiredTech": "Masonry"
+        "uniqueTo": "Inca",
+        "requiredTech": "Agriculture"
     },
     {
         "name": "Brick Works",
