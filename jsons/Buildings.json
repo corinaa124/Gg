@@ -12,13 +12,13 @@
     },
     {
         "name": "Bakery",
-        "cost": 100,
+        "cost": 10,
         "food": 2,
         "happiness": 2,
         "gold": 2,
         "maintenance": 3,
         "uniqueTo": "Inca",
-        "uniques": ["[+2 Food] from [Grassland] tiles [in this city]"],
+        "uniques": ["[+2 Food] from [Grassland] tiles [in this city]", "[+2 Food] from [Plains] tiles [in this city]"],
         "requiredTech": "Agriculture"
     },
     {
