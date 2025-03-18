@@ -41,7 +41,7 @@
         "name": "Greenhouse",
         "cost": 40,
         "food": 2,
-        "uniques": ["[+5 Food, +8 Science] from [Mountain] tiles [in this city]","[+2 Food] from [Desert] tiles [in this city]","[+2 Food] from [Tundra] tiles [in this city]","[+2 Food] from [Snow] tiles [in this city]"],
+        "uniques": ["[+10 Gold, +8 Faith] from [Mountain] tiles [in this city]","[+2 Food, +2 Production] from [Desert] tiles [in this city]","[+3 Food, +3 Production] from [Water] tiles [in this city]"],
         "maintenance": 2,
 	"uniqueTo": "Inca",
         "requiredTech": "Construction"
