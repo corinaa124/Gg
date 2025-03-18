@@ -33,7 +33,7 @@
         "gold": 50,
 	"isNationalWonder": true,
         "uniqueTo": "Inca",
-	"uniques":["Can build [all] improvements at a [+50]% rate","[-25]% Culture cost of natural border growth [in all cities]"]
+	"uniques":["Can build [all] improvements at a [+50]% rate","[-40]% Culture cost of natural border growth [in all cities]"]
         "requiredBuilding": "Palace",
         "requiredTech": "Agriculture"
     },
