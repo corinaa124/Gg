@@ -23,4 +23,16 @@
         "uniques": ["[+5 Science] from [Hill] tiles [in this city]"],
         "requiredTech": "Agriculture"
     },
+    {
+        "name": "Gas Works",
+        "cost": 10,
+        "culture": 20,
+        "cityStrength": 50,
+		"cityHealth": 100,
+        "happiness": 8,
+        "maintenance": 1,
+        "uniqueTo": "Inca",
+        "requiredBuilding": "Palace",
+        "requiredTech": "Agriculture"
+    }
 ]
