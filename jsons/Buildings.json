@@ -31,8 +31,19 @@
 	"cityHealth": 100,
         "happiness": 8,
         "gold": 50,
+	"isNationalWonder": true,
         "uniqueTo": "Inca",
+	"uniques":["Can build [all] improvements at a [+50]% rate","[-25]% Culture cost of natural border growth [in all cities]"]
         "requiredBuilding": "Palace",
         "requiredTech": "Agriculture"
+    },
+    {
+        "name": "Greenhouse",
+        "cost": 40,
+        "food": 2,
+        "uniques": ["[+5 Food, +8 Science] from [Mountain] tiles [in this city]","[+2 Food] from [Desert] tiles [in this city]","[+2 Food] from [Tundra] tiles [in this city]","[+2 Food] from [Snow] tiles [in this city]"],
+        "maintenance": 2,
+	"uniqueTo": "Inca",
+        "requiredTech": "Construction"
     }
 ]
