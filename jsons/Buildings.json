@@ -22,7 +22,9 @@
         "maintenance": 1,
         "uniqueTo": "Inca",
         "specialistSlots": {"Scientist": 2},
-        "uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Ignore terrain cost] promotion", "[-50]% Gold cost of acquiring tiles [in this city]"],
+        "uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Ignore terrain cost] promotion",
+		"[-50]% Gold cost of acquiring tiles [in this city]",
+	"All newly-trained [non-[Air]] units [in this city] receive the [Organic Remedies] promotion"],
         "requiredTech": "Agriculture"
     },
     {
