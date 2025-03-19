@@ -17,10 +17,11 @@
         "cost": 15,
         "science": 3,
         "happiness": 2,
-        "maintenance": 3,
+	"culture": 3,
+        "maintenance": 1,
         "uniqueTo": "Inca",
-        "specialistSlots": {"Scientist": 1},
-        "uniques": ["[+5 Science] from [Hill] tiles [in this city]", "All newly-trained [non-[Air]] units [in this city] receive the [Ignore terrain cost] promotion", "[-50]% Gold cost of acquiring tiles [in this city]"],
+        "specialistSlots": {"Scientist": 2},
+        "uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Ignore terrain cost] promotion", "[-50]% Gold cost of acquiring tiles [in this city]"],
         "requiredTech": "Agriculture"
     },
     {
