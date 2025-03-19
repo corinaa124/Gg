@@ -1,6 +1,6 @@
 [
 	{
 		"name": "Organic Remedies",
-		"uniques": ["[+2] Movement"],
+		"uniques": ["[+2] Movement", "[+2] Sight", "Ignores terrain cost"],
 	}
 ]
