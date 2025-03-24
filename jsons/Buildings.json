@@ -23,8 +23,8 @@
         "maintenance": 1,
         "uniqueTo": "Inca",
         "specialistSlots": {"Scientist": 2},
-        "uniques": ["[-50]% Gold cost of acquiring tiles [in this city]",
-	"All newly-trained [non-[Air]] units [in this city] receive the [Organic Remedies] promotion","[+2 Gold, +2 Production] per [1] population [in this city]"],
+        "uniques": ["[-60]% Gold cost of acquiring tiles [in this city]",
+	"All newly-trained [non-[Air]] units [in this city] receive the [Organic Remedies] promotion","[+3 Gold, +1 Production] per [1] population [in this city]"],
         "requiredTech": "Agriculture"
     },
     {
@@ -45,7 +45,7 @@
         "name": "Greenhouse",
         "cost": 10,
         "food": 2,
-        "uniques": ["[+10 Gold, +8 Faith] from [Mountain] tiles [in this city]","[+2 Food, +2 Production] from [Desert] tiles [in this city]","[+3 Food, +3 Production] from [Water] tiles [in this city]"],
+        "uniques": ["[+10 Culture, +10 Faith] from [Mountain] tiles [in this city]","[+2 Food, +2 Production] from [Desert] tiles [in this city]","[+3 Food, +3 Production] from [Water] tiles [in this city]"],
         "maintenance": 2,
 	"uniqueTo": "Inca",
         "requiredTech": "Construction"
