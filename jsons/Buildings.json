@@ -7,7 +7,7 @@
         "gold": 2,
         "maintenance": 3,
 	"replaces":"Medical Lab",
-        "uniqueTo": "Inca",
+        "uniqueTo": "Byzantium",
         "uniques": ["[+4 Food, +2 Production] from [Hill] tiles [in this city]", "[+2 Food] from [Grassland] tiles [in this city]", "[+2 Food] from [Plains] tiles [in this city]",
         "[40]% Food is carried over after population increases [in this city]",
         "[-50]% Unhappiness from [Population] [in this city]"],
@@ -21,7 +21,7 @@
         "happiness": 2,
 	"culture": 3,
         "maintenance": 1,
-        "uniqueTo": "Inca",
+        "uniqueTo": "Byzantium",
         "specialistSlots": {"Scientist": 2},
         "uniques": ["[-60]% Gold cost of acquiring tiles [in this city]",
 	"All newly-trained [non-[Air]] units [in this city] receive the [Organic Remedies] promotion","[+3 Gold, +1 Production] per [1] population [in this city]"],
@@ -36,7 +36,7 @@
         "happiness": 8,
         "gold": 50,
 	"isNationalWonder": true,
-        "uniqueTo": "Inca",
+        "uniqueTo": "Byzantium",
 	"uniques":["Can build [all] improvements at a [+50]% rate","[-40]% Culture cost of natural border growth [in all cities]"]
         "requiredBuilding": "Palace",
         "requiredTech": "Agriculture"
@@ -47,7 +47,7 @@
         "food": 2,
         "uniques": ["[+10 Culture, +10 Faith] from [Mountain] tiles [in this city]","[+2 Food, +2 Production] from [Desert] tiles [in this city]","[+3 Food, +3 Production] from [Water] tiles [in this city]"],
         "maintenance": 2,
-	"uniqueTo": "Inca",
+	"uniqueTo": "Byzantium",
         "requiredTech": "Construction"
     }
 ]
