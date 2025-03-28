@@ -24,7 +24,7 @@
         "uniqueTo": "Byzantium",
         "specialistSlots": {"Scientist": 2},
         "uniques": ["[-60]% Gold cost of acquiring tiles [in this city]",
-	"All newly-trained [non-[Air]] units [in this city] receive the [Organic Remedies] promotion","[+3 Gold, +1 Production] per [1] population [in this city]"],
+	"All newly-trained [non-[Air]] units [in this city] receive the [Organic Remedies] promotion","[+3 Gold, +1 Production, +1 Culture] per [1] population [in this city]"],
         "requiredTech": "Agriculture"
     },
     {
@@ -37,7 +37,7 @@
         "gold": 50,
 	"isNationalWonder": true,
         "uniqueTo": "Byzantium",
-	"uniques":["Can build [all] improvements at a [+50]% rate","[-40]% Culture cost of natural border growth [in all cities]"]
+	"uniques":["Can build [all] improvements at a [+70]% rate","[-40]% Culture cost of natural border growth [in all cities]"]
         "requiredBuilding": "Palace",
         "requiredTech": "Agriculture"
     },
